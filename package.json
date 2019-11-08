@@ -1,0 +1,35 @@
+{
+  "name": "sample-nodejs-app",
+  "version": "1.0.0",
+  "description": "A simple user stories MEAN app",
+  "main": "server.js",
+  "scripts": {
+    "start" : "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beingadityak/sample-nodejs-app.git"
+  },
+  "keywords": [
+    "user",
+    "stories",
+    "mean"
+  ],
+  "author": "beingadityak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beingadityak/sample-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/beingadityak/sample-nodejs-app#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.2",
+    "connect-timeout": "^1.9.0",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "mongoose": "^4.10.4",
+    "morgan": "^1.8.2",
+    "socket.io": "^2.0.3"
+  }
+}
