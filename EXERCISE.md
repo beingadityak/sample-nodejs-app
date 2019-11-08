@@ -1,6 +1,6 @@
 # Node.js DevOps Exercise
 
-The objective of this exercise is to create a DevOps style deployment for this application. This will touch on the aspect of scalability and automation of the deployments. Please create a fork of this repository and place your scripts/automations in `devops` folder. 
+The objective of this exercise is to create a DevOps style deployment for this application. This will touch on the aspect of scalability and automation of the deployments. Please create a copy of this repository and place your scripts/automations in `devops` folder. 
 
 If you have done any manual steps, please document the same as `STEPS.md` inside the `devops` folder.
 
