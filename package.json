@@ -24,9 +24,9 @@
   "homepage": "https://github.com/beingadityak/sample-nodejs-app#readme",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.20.1",
     "connect-timeout": "^1.9.0",
-    "express": "^4.15.3",
+    "express": "^4.18.2",
     "jsonwebtoken": "^7.4.1",
     "mongoose": "^5.13.15",
     "morgan": "^1.9.1",
